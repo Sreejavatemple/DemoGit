@@ -6,6 +6,7 @@ public class Hello implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("WEL come to Git Account");
+		 System.out.println("Hello");
+		
 		}
 }
